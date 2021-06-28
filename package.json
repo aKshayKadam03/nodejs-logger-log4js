@@ -1,0 +1,18 @@
+{
+  "name": "log4js-example",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.2.6",
+    "express": "^4.16.4",
+    "express-cluster": "^0.0.5",
+    "log4js": "^4.0.2",
+    "pug": "^2.0.3",
+    "static-favicon": "^1.0.0"
+  }
+}
